@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android_Chap11_AutoCompleteTextView</string>
+    <string-array name="cities_array">
+        <item>Hà Nội</item>
+        <item>Hồ Chí Minh</item>
+        <item>Đà Nẵng</item>
+        <item>Hải Phòng</item>
+        <item>Huế</item>
+        <item>Nam Định</item>
+        <item>Thái Bình</item>
+        <item>Ninh Bình</item>
+        <item>Nghệ An</item>
+        <item>Hà Tĩnh</item>
+        <item>Thái Nguyên</item>
+        <item>Lào Cai</item>
+    </string-array>
+</resources>
